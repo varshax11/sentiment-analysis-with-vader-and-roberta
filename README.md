@@ -1,4 +1,4 @@
-# Sentiment Analysis Project
+# Sentiment Analysis with VADER and roBERTa 
 
 ## Overview
 
@@ -67,7 +67,7 @@ python main.py
 This project demonstrates how to use both VADER and RoBERTa for sentiment analysis. By comparing the results from these two approaches, you can better understand the strengths and weaknesses of each method in analyzing sentiments in text.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. 
 
 
 
