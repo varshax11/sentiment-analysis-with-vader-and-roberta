@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project performs sentiment analysis using two different methods: **VADER** from the Natural Language Toolkit (NLTK) and **RoBERTa** from the Hugging Face Transformers library. The goal is to compare the results from both methods on a set of sample text data.
+This project performs sentiment analysis using two different methods: **VADER** from the Natural Language Toolkit (NLTK) and **RoBERTa** from the Hugging Face Transformers library. The goal is to compare the results from both methods on a set of sample text data. 
 
 ## Objectives
 
